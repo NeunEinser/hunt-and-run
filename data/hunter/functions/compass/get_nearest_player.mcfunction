@@ -17,6 +17,6 @@ scoreboard players set $set_success hunter.main 1
 function hunter:compass/find_dimension_in_storage
 scoreboard players reset $set_success hunter.main
 
-execute at @s run tag @a[limit=1, distance=0.., team=hunter.runner, sort=nearest] add hunter.nearest
+execute at @s run tag @a[limit=1, distance=0.., team=hunter.runner, gamemode=!spectator, sort=nearest] add hunter.nearest
 execute if entity @a[limit=1, tag=hunter.nearest] run function hunter:compass/store_nearest_player
 tag @a remove hunter.nearest
