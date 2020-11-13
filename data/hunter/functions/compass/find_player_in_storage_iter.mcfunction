@@ -13,9 +13,9 @@
 #@private
 #declare score_holder $cur_player_id
 
-data modify storage hunter:tracking listCpy append from storage hunter:tracking list[-1]
 execute unless data storage hunter:tracking list[0] run data modify storage hunter:tracking listCpy append value {}
 execute unless data storage hunter:tracking list[0] store result storage hunter:tracking listCpy[-1].id int 1 run scoreboard players get @s hunter.id
+data modify storage hunter:tracking listCpy append from storage hunter:tracking list[-1]
 data remove storage hunter:tracking list[-1]
 
 execute store result score $cur_player_id hunter.main run data get storage hunter:tracking listCpy[-1].id

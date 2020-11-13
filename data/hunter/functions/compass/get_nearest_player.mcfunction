@@ -12,7 +12,6 @@
 
 function hunter:compass/find_player_in_storage
 
-
 scoreboard players set $set_success hunter.main 1
 function hunter:compass/find_dimension_in_storage
 scoreboard players reset $set_success hunter.main
