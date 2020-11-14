@@ -6,7 +6,9 @@ In this datapack, there are two teams: The Hunters and the Runners.
 
 ## Hunters
 As a hunter, your goal is to kill all runners. You may die and respawn normally as often as you want.  
-You will receive a compass that will point you towards the runner who is closest to you.
+You will receive a compass that will point you towards the runner who is closest to you. The compass will only update when you hold it in your main hand.  
+In case, no runner is in your current dimension, it will still point to the last known location of any runner that was closest to you last. Runner locations are saved for you per dimension, so even if you switch a dimension, the compass will still point you to the runner you tracked last in that dimension.
+All of this works with multiple hunters. The compass will track the closest runner per hunter.
 
 ## Runners
 As a runner, your goal is to kill the Ender Dragon.  
@@ -16,5 +18,7 @@ You can still regenerate health like usual with a full hunger bar, so this is **
 
 ## Rules
 1. There are no rules  
-You can do and play as you want. This may include trapping the obsidian platform in the end with lava. Just have a water bucket selected in your toolbar and be ready to run, I guess :wink:. The game will fill a certain area above the obsidian platform with air whenerver a player goes through, so you will have a sort of grace periode.  
+Do anything you can think of to gain an advantage. This may include trapping the obsidian platform in the end with lava. Just have a water bucket selected in your toolbar and be ready to run, I guess :wink:. The game will fill a certain area above the obsidian platform with air whenerver a player goes through, so you will have a sort of grace periode.  
 Of course, you as a group can agree on any rules you seem fit.
+
+It is recommended to have more experienced players join the runners and less so the hunters.
