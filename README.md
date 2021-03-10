@@ -12,7 +12,7 @@ All of this works with multiple hunters. The compass will track the closest runn
 
 ## Runners
 As a Runner your goal is to kill the Ender Dragon.  
-It doesn't matter who kills it, even if it receives it's killing blow from a Hunter, it counts as a win towards The Runners.  
+It doesn't matter who kills it, even if it receives its killing blow from a Hunter, it counts as a win towards The Runners.  
 You only have one life! If you die, may it be a pvp kill by a hunter, from pve or through enviornmental damage, you are out. If you play this with multiple Runners, you as a team can still win.  
 You can regenerate health like usual with a full hunger bar, so this is **not** UHC for you.
 
@@ -21,4 +21,4 @@ You can regenerate health like usual with a full hunger bar, so this is **not** 
 Do anything you can think of to gain an advantage. This may include trapping the obsidian platform in the end with lava. Just have a water bucket selected in your toolbar and be ready to run, I guess :wink:. The game will fill a certain area above the obsidian platform with air whenerver a player goes through, so you will have a sort of grace period.  
 Of course, you as a group can agree on any rules you seem fit.
 
-It is recommended to have the more experienced players join the Runners and The less so The Hunters.
+It is recommended to have the more experienced players join The Runners and the less experienced The Hunters.
